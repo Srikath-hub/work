@@ -11,4 +11,5 @@ Created Interactive Dashboard & Analysed core underlying causes of poor employee
 •	Which top 5 job role indicates the maximum attrition of employees?
 •	Does a highly experienced person responsible for leaving the company?
 •	How does the % salary hike play a crucial role in the increase in attrition of the employee?
-
+dashboard:
+https://github.com/Srikath-hub/work/blob/main/Screenshot%202025-07-04%20200559.png
