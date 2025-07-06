@@ -4,7 +4,7 @@ Created Interactive Dashboard & Analysed core underlying causes of poor employee
 1.	Project Objective:
 employee performance dataset to identify key factors influencing employee performance and recommend strategies to improve productivity.
 2.	Questions (KPIs)-----
-•	Does educational level responsible for the attrition of employees?
+<a>•	Does educational level responsible for the attrition of employees?<\a>
 •	Which age group of employees has the maximum attrition?
 •	Are the employees unsatisfied with the specific job role?
 •	Which top 5 job role indicates the maximum attrition of employees?
