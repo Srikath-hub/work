@@ -4,5 +4,5 @@
       
          employee performance dataset to identify key factors influencing employee performance  and recommend strategies to improve productivity.
   	   
-#Dataset used-----
-•	_Employee_Performance_Data
+2.    dataset used:
+      
