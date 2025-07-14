@@ -26,10 +26,24 @@
 - Create KPIs using card visuals according to tha questions asked.
 - After completed dashboard you can share or publish your dashboard.
 ### 5. Dashboard:
-- https://github.com/Srikath-hub/work/blob/main/Screenshot%202025-07-04%20200559.png
+
+
+
+
+
+<img width="609" height="342" alt="Screenshot 2025-07-04 200559" src="https://github.com/user-attachments/assets/76bcabbf-03f9-4831-bef3-6fa33fb3cb2c" />
+
+
+
+
+
+
+
+
 
 ### 6.Project Insight:
-- In this Dataset contains total 4 departments , 12 job roles.
+- In this Dataset contains to
+
 - The maximum number of employees between 36 - 45 age, depicts high attrition (33 employees).
 -	The maximum number of employees Education background is Life sciences(30 employees).
 -	The maximum salary Hike in between 36 - 45 age group employees(94% salary hike).
